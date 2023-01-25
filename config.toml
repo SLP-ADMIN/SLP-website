@@ -3,6 +3,11 @@ languageCode = 'en-us'
 title = 'SLP Assistance Admnistrative'
 theme = 'hugo-flex'
 
+[params]
+dateFormat = "02 Jan 2006"
+
+
+
 [[menu.main]]
 name = 'about'
 identifier = 'about'
