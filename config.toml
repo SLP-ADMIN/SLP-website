@@ -1,0 +1,4 @@
+baseURL = 'slpadmin.fr'
+languageCode = 'fr-fr'
+title = 'SLP Assistance Admnistrative'
+theme = 'hugo-flex'
