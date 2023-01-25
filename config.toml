@@ -2,3 +2,9 @@ baseURL = 'slpadmin.fr'
 languageCode = 'en-us'
 title = 'SLP Assistance Admnistrative'
 theme = 'hugo-flex'
+
+[[menu.main]]
+name = 'about'
+identifier = 'about'
+weight = 200
+url = '/about/'
