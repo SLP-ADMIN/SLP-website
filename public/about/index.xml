@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<?xml-stylesheet type="text/xsl" href="/slpadmin.fr/xml/base.min.xml" ?>
+<?xml-stylesheet type="text/xsl" href="/xml/base.min.xml" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on SLP Assistance Admnistrative</title>
-    <link>slpadmin.fr/about/</link>
+    <link>/about/</link>
     <description>Recent content in Abouts on SLP Assistance Admnistrative</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 25 Jan 2023 23:19:17 +0100</lastBuildDate>
-    <atom:link href="slpadmin.fr/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>slpadmin.fr/about/about/</link>
+      <link>/about/about/</link>
       <pubDate>Wed, 25 Jan 2023 23:19:17 +0100</pubDate>
-      <guid>slpadmin.fr/about/about/</guid>
+      <guid>/about/about/</guid>
       <description>&lt;p&gt;Site en cours de construction&lt;/p&gt;
 </description>
     </item>
