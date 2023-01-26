@@ -28,6 +28,5 @@ recaptcha = false
 #url = "about/"
 #weight = 1
 
-
 [mediaTypes."font/woff2"]
 suffixes = [ "woff2" ]
