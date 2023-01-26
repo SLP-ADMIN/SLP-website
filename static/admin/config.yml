@@ -1,6 +1,9 @@
 backend:
-  name: git-gateway
-  branch: main # Branch to update (optional; defaults to master)
+  name: github
+  repo: SLP-ADMIN/slp-website # Path to your GitHub repository
+  # optional, defaults to master
+  # branch: main
+
 
 # This lines should *not* be indented
 publish_mode: editorial_workflow
