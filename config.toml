@@ -1,4 +1,4 @@
-baseURL = 'slpadmin.fr'
+baseURL = '/'
 languageCode = 'en-us'
 title = 'SLP Assistance Admnistrative'
 theme = 'hugo-flex'
