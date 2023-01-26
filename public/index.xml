@@ -6,19 +6,15 @@
     <link>slpadmin.fr/</link>
     <description>Recent content on SLP Assistance Admnistrative</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language>
-    <lastBuildDate>Wed, 25 Jan 2023 22:47:41 +0100</lastBuildDate>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Jan 2023 23:19:17 +0100</lastBuildDate>
     <atom:link href="slpadmin.fr/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>slpadmin.fr/posts/my-first-post/</link>
-      <pubDate>Wed, 25 Jan 2023 22:47:41 +0100</pubDate>
-      <guid>slpadmin.fr/posts/my-first-post/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;
-  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;#introduction&#34;&gt;Introduction&lt;/a&gt;
-&lt;/h2&gt;
-&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;
-&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;
+      <title>About</title>
+      <link>slpadmin.fr/about/about/</link>
+      <pubDate>Wed, 25 Jan 2023 23:19:17 +0100</pubDate>
+      <guid>slpadmin.fr/about/about/</guid>
+      <description>&lt;p&gt;Site en cours de construction&lt;/p&gt;
 </description>
     </item>
   </channel>

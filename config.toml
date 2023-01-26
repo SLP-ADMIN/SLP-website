@@ -5,11 +5,29 @@ theme = 'hugo-flex'
 
 [params]
 dateFormat = "02 Jan 2006"
+color = "teal"
+width = "42rem"
+divider = "\\a0"
+footer = 'Except where otherwise noted, content on this site is licensed under a &#32; <a href="http://creativecommons.org/licenses/by/4.0/" rel="license">Creative Commons Attribution 4.0 International License</a>.'
+rss = "To subscribe to this RSS feed, copy its address and paste it into your favorite feed reader."
+summaries = false
+schema = false
+opengraph = false
+twittercards = false
+
+[params.utterances]
+issueterm = "pathname"
+theme = "github-light"
+
+[params.netlify]
+honeypot = false
+recaptcha = false
+
+[[menu.nav]]
+name = "About"
+url = "about/"
+weight = 1
 
 
-
-[[menu.main]]
-name = 'about'
-identifier = 'about'
-weight = 200
-url = '/about/'
+[mediaTypes."font/woff2"]
+suffixes = [ "woff2" ]

@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>slpadmin.fr/posts/my-first-post/</loc>
-    <lastmod>2023-01-25T22:47:41+01:00</lastmod>
+    <loc>slpadmin.fr/about/about/</loc>
+    <lastmod>2023-01-25T23:19:17+01:00</lastmod>
   </url><url>
-    <loc>slpadmin.fr/posts/</loc>
-    <lastmod>2023-01-25T22:47:41+01:00</lastmod>
+    <loc>slpadmin.fr/about/</loc>
+    <lastmod>2023-01-25T23:19:17+01:00</lastmod>
   </url><url>
     <loc>slpadmin.fr/</loc>
+    <lastmod>2023-01-25T23:19:17+01:00</lastmod>
+  </url><url>
+    <loc>slpadmin.fr/post/my-first-post/</loc>
+    <lastmod>2023-01-25T22:47:41+01:00</lastmod>
+  </url><url>
+    <loc>slpadmin.fr/post/</loc>
     <lastmod>2023-01-25T22:47:41+01:00</lastmod>
   </url><url>
     <loc>slpadmin.fr/categories/</loc>
